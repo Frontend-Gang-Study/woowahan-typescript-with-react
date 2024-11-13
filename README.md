@@ -19,26 +19,23 @@
   - 문제 출제자를 제외한 나머지 스터디원은 문제가 등록된 시점부터 스터디 진행 20분 시점까지 문제에 대한 답안을 답변으로 작성합니다.
 - 스터디는 약 50분 동안 진행됩니다.
   - 전반 20분 동안 내용을 복기하고 궁금한 점이 있다면 질의응답을 합니다.
-  - 후반 30분 동안 순서대로 본인이 출제한 문제를 구두로 질문하고 나머지 팀원이 구두로 답변합니다. 출제자는 issue에 마지막 순서로 최종 답안을 작성하면서 해당 issue를 종료시킵니다.
-
-
-## 목차
-
-| 일시       | 제목                                | 정리                                  | 질문                                  |
-|------------|-------------------------------------|---------------------------------------|---------------------------------------|
-| 2024.11.13 | **[1장] 들어가며**                   | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[2장] 타입**                       | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[3장] 고급 타입**                  | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[4장] 타입 확장하기·좁히기**       | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[5장] 타입 활용하기**              | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[6장] 타입스크립트 컴파일**        | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[7장] 비동기 호출**                | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[8장] JSX에서 TSX로**              | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[9장] 훅**                         | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[10장] 상태 관리**                 | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[11장] CSS-in-JS**                 | [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[12장] 타입스크립트 프로젝트 관리**| [정리](https://example.com)           | [질문](https://example.com)           |
-| 2024.11.13 | **[13장] 타입스크립트와 객체 지향**  | [정리](https://example.com)           | [질문](https://example.com)           |
+  - 후반 30분 동안 순서대로 본인이 출제한 문제를 구두로 질문하고 나머지 팀원이 구두로 답변합니다. 출제자는 issue에 마지막 순서로 최종 답안을 작성하면서 해당 issue를 종료시킵니다xxx
+## 일정표
+| 일시      | 제목                                | 정리                                  | 질문                                  |
+|----------|-------------------------------------|---------------------------------------|---------------------------------------|
+| 2024.11.13 | **[1장] 들어가며**                   | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[2장] 타입**                       | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[3장] 고급 타입**                  | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[4장] 타입 확장하기·좁히기**       | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[5장] 타입 활용하기**              | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[6장] 타입스크립트 컴파일**        | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[7장] 비동기 호출**                | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[8장] JSX에서 TSX로**              | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[9장] 훅**                         | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[10장] 상태 관리**                 | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[11장] CSS-in-JS**                 | [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[12장] 타입스크립트 프로젝트 관리**| [예정](https://example.com)           | [예정](https://example.com)           |
+| 2024.11.xx | **[13장] 타입스크립트와 객체 지향**  | [예정](https://example.com)           | [예정](https://example.com)  
 
 
 ## 스터디 멤버
