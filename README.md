@@ -23,19 +23,19 @@
 ## 일정표
 | 일시      | 제목                                | 정리                                  | 질문                                  |
 |----------|-------------------------------------|---------------------------------------|---------------------------------------|
-| 2024.11.13 | **[1장] 들어가며**                   | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[2장] 타입**                       | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[3장] 고급 타입**                  | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[4장] 타입 확장하기·좁히기**       | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[5장] 타입 활용하기**              | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[6장] 타입스크립트 컴파일**        | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[7장] 비동기 호출**                | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[8장] JSX에서 TSX로**              | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[9장] 훅**                         | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[10장] 상태 관리**                 | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[11장] CSS-in-JS**                 | [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[12장] 타입스크립트 프로젝트 관리**| [예정](https://example.com)           | [예정](https://example.com)           |
-| 2024.11.xx | **[13장] 타입스크립트와 객체 지향**  | [예정](https://example.com)           | [예정](https://example.com)  
+| 2024.11.13 | **[1장] 들어가며**                   | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B1%EC%9E%A5%5D%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)           |
+| 2024.11.xx | **[2장] 타입**                       | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85)           |
+| 2024.11.xx | **[3장] 고급 타입**                  | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B3%EC%9E%A5%5D%20%EA%B3%A0%EA%B8%89%20%ED%83%80%EC%9E%85)           |
+| 2024.11.xx | **[4장] 타입 확장하기·좁히기**       | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B4%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0%C2%B7%EC%A2%81%ED%9E%88%EA%B8%B0)           |
+| 2024.11.xx | **[5장] 타입 활용하기**              | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B5%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)           |
+| 2024.11.xx | **[6장] 타입스크립트 컴파일**        | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B6%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BB%B4%ED%8C%8C%EC%9D%BC)           |
+| 2024.11.xx | **[7장] 비동기 호출**                | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B7%EC%9E%A5%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%98%B8%EC%B6%9C)           |
+| 2024.11.xx | **[8장] JSX에서 TSX로**              | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B8%EC%9E%A5%5D%20JSX%EC%97%90%EC%84%9C%20TSX%EB%A1%9C)           |
+| 2024.11.xx | **[9장] 훅**                         | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B9%EC%9E%A5%5D%20%ED%9B%85)           |
+| 2024.11.xx | **[10장] 상태 관리**                 | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B10%EC%9E%A5%5D%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC)           |
+| 2024.11.xx | **[11장] CSS-in-JS**                 | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B11%EC%9E%A5%5D%20CSS-in-JS)           |
+| 2024.11.xx | **[12장] 타입스크립트 프로젝트 관리**| [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B12%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC)           |
+| 2024.11.xx | **[13장] 타입스크립트와 객체 지향**  | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B13%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5)  
 
 
 ## 스터디 멤버
