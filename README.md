@@ -25,7 +25,7 @@
 ## 일정표
 | 일시      | 제목                                | 정리                                  | 질문                                  |
 |----------|-------------------------------------|---------------------------------------|---------------------------------------|
-| 2024.11.13(수) | **[1장] 들어가며**                   | [정리](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/tree/main/%5B01%EC%9E%A5%5D%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)           | [질문](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B1%EC%9E%A5%5D%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)           |
+| 2024.11.13(수) | **[1장] 들어가며**                   | [정리](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/tree/main/%5B01%EC%9E%A5%5D%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)           | [질문](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/issues?q=label%3A%22%5B1%EC%9E%A5%5D+%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0%22+)           |
 | 2024.11.15(금) | **[2장] 타입**                       | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85)           |
 | 2024.11.18(월) | **[3장] 고급 타입**                  | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B3%EC%9E%A5%5D%20%EA%B3%A0%EA%B8%89%20%ED%83%80%EC%9E%85)           |
 | 2024.11.xx | **[4장] 타입 확장하기·좁히기**       | [예정](https://example.com)           | [예정](https://github.com/Frontend-Gang-Study/woowahan-typescript-with-react/labels/%5B4%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0%C2%B7%EC%A2%81%ED%9E%88%EA%B8%B0)           |
