@@ -1,0 +1,62 @@
+### 변수 선언
+@baseUrl = https://jsonplaceholder.typicode.com
+@jwt = testjwt
+
+GET {{baseUrl}}/posts HTTP/1.1
+Authorization: bearer {{jwt}}
+
+###
+GET https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+
+### 구분을 위해서 ### 를 써야 한다.
+GET https://jsonplaceholder.typicode.com/posts/2 HTTP/1.1
+
+### 포스트 요청
+POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+Content-Type: application/json; charset=UTF-8
+
+{
+  "name": "sample",
+  "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+### 업데이트 요청 (전체 업데이트)
+PUT https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+Content-Type: application/json; charset=UTF-8
+
+{
+  "id": 1,
+  "title": "Updated Title",
+  "body": "Updated Body",
+  "userId": 1
+}
+
+### 패치 요청 (일부 업데이트)
+PATCH https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+Content-Type: application/json; charset=UTF-8
+
+{
+  "title": "Patched Title"
+}
+
+### 삭제 요청
+DELETE https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+
+###
+
+# @name getPost
+GET https://jsonplaceholder.typicode.com/posts HTTP/1.1
+
+### Create Post
+POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+Content-Type: application/json
+
+{
+  "title": "{{getPost.response.body.$[0].title}}",
+  "content-type": "{{getPost.response.headers.Content-Type}}"
+}
+
+# 주석
+// 주석
+
+### https://hudi.blog/vscode-rest-client/ 참고
